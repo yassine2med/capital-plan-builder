@@ -1,0 +1,13 @@
+asset_id,name,install_year,expected_life_years,condition,replacement_cost
+HVAC-0001,Rooftop unit 1,2012,20,Fair,48000
+HVAC-0002,Chiller 1,2008,25,Good,185000
+HVAC-0003,Air handler 2,2003,20,Poor,62000
+HVAC-0004,Boiler 1,1999,30,Fair,88000
+ELEC-0001,Main switchgear,2001,40,Good,95000
+ELEC-0002,Emergency generator,2006,25,Fair,140000
+PLMB-0001,Domestic hot water heater,2010,15,Poor,12000
+PLMB-0002,Booster pump,2015,15,Good,18000
+FIRE-0001,Fire pump,2015,25,Good,38000
+FIRE-0002,Fire alarm panel,2009,20,Fair,27000
+ELEV-0001,Passenger elevator 1,2005,30,Fair,210000
+ENVL-0001,Roof membrane,2011,20,Poor,150000
