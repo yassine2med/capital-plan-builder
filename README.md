@@ -1,5 +1,7 @@
 # capital-plan-builder
 
+[![CI](https://github.com/yassine2med/capital-plan-builder/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/capital-plan-builder/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 A capital plan turns an asset list into a budget: what to replace each year, and what it will cost once prices rise. This tool builds a plan of a chosen length (five years by default) from a CSV of assets. It places each asset in its end of life year, pulls Poor condition assets to the first year, grows costs by an inflation rate, and can hold each year under a spending cap by moving lower priority work to later years.
 
 ![Screenshot](docs/screenshot.png)
